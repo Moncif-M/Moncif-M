@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello 👋
 
 I'm a Software / Data Engineer from Morocco 🇲🇦, graduated from ENSIAS, one of the top engineering schools in Morocco.
 

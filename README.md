@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a Software / Data Engineer from Morocco 🇲🇦, ENSIAS graduate, one of the top engineering schools in Morocco.
+I'm a Software / Data Engineer from Morocco 🇲🇦, and an ENSIAS graduate, one of the top engineering schools in Morocco.
 
 I love coding and building things, and honestly, I do it for fun.
 

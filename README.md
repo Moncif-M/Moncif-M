@@ -1,3 +1,6 @@
 ## hi
 
-I'm a Software / Data Engineer from Morocco, ENSIAS Graduate that enjoys building stuff 
+> Software / Data Engineer from Morocco
+> ENSIAS Graduate
+> Enjoys building stuff 
+> Likes (Loves) webnovels and novels

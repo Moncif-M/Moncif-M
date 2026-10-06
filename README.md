@@ -6,4 +6,4 @@ ENSIAS Graduate
 
 Enjoys building stuff
 
-Likes (Loves) webnovels and novels
+i love webnovels and books
